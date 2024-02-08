@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Power BI
+- 🌱 I’m currently learning Power BI, Tableau
+- 👯 I’m looking to collaborate on Data Analytics/Data Science Project
+- 🤔 I’m looking for help for Excel work
+
 <!--
 **Eaditya196/Eaditya196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
